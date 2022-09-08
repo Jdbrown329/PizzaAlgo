@@ -4,3 +4,5 @@ Call restaurant
 Ready amount quoted by order taker
 Pay for and Recieve pizza
 eat
+Pack leftovers
+Watch disneyplus
