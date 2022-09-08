@@ -1,0 +1,6 @@
+Decide where to order pizza
+Decide toppings and wings sauce choice
+Call restaurant
+Ready amount quoted by order taker
+Pay for and Recieve pizza
+eat
